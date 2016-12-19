@@ -7,3 +7,7 @@ Useful and cool software for desktop operating systems
 **Caffeine** - http://lightheadsw.com/caffeine/
 
 Don't let your Mac enter sleep mode while presenting
+
+**Spectacle** - https://www.spectacleapp.com/
+
+Move and resize windows with ease
