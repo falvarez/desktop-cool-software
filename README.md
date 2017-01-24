@@ -16,10 +16,10 @@ Move and resize windows with ease
 
 smcFanControl controls the fans of every Intel Mac to make it run cooler.
 
-** SourceTree ** - https://www.sourcetreeapp.com/
+**SourceTree** - https://www.sourcetreeapp.com/
 
 A free visual Git client for Mac (and windows)
 
-** Toggl ** - https://toggl.com/
+**Toggl** - https://toggl.com/
 
 An excellent tool to quantify and manage your own time (and your team time)
